@@ -324,7 +324,6 @@ li:before {
     height: 210px;
     margin: 10px;
     border-radius: 105px;
-    background: url(//s3-us-west-2.amazonaws.com/s.cdpn.io/86033/profile/profile-512_3.jpg) 100% /210px no-repeat;
 }
 
 .hello_content,
