@@ -189,14 +189,14 @@ li:before {
 }
 
 #header {
-    height: 130px;
+    height: 150px;
     border-bottom: 1px solid #403F44;
 }
 
 .header_logotype_container {
-    width: 260px;
-    height: 130px;
-    border-right: 1px solid #403F44;
+    width: 259px;
+    height: 150px;
+    border-right: 2px solid #403F44;
     float: left;
 }
 
@@ -416,6 +416,7 @@ li:before {
 }
 
 .social_icons a {
+    color: aliceblue !important;
     font-size: 35px;
     text-decoration: none;
     color: #000507;
